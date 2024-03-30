@@ -17,6 +17,10 @@ Um portfolio simples com a intenção de aprender o desenvolvimento dos comandos
         }
     </script>
 
+# Imagens
+
+As imagens utilizadas foram usadas aleatoriamente do google e alguns sites abertos.
+
 # Contato
 
 https://www.linkedin.com/in/maria-amanda-silva/
